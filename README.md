@@ -23,4 +23,4 @@ Antes de executar o projeto, você precisará ter o seguinte instalado em seu si
 Primeiro, clone o repositório para a sua máquina local. Abra o terminal e execute o seguinte comando:
 
 ```bash
-git clone https://github.com/YgorGdev/ObjetoGeometrico.git
+git clone https://github.com/gahlure/GEOMETRICO.git
